@@ -1,0 +1,55 @@
+body {
+  background-color: aliceblue;
+}
+#homePageFont {
+  color: #CCD1D9;
+}
+.nav {
+    background-color: #767E8C;
+    color: #CCD1D9;
+    padding: 10px;
+}
+.nav a:link {
+  text-decoration: none;
+  color: #CCD1D9;
+}
+.nav a:visited {
+  text-decoration: none;
+  color: #CCD1D9;
+
+}
+.nav a:hover {
+    background-color: #CCD1D9;
+    color: #767E8C;
+}
+a {
+  padding: 10px;
+}
+#sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+@font-face {
+  font-family: logoFont;
+  src:url(../fonts/20second-font\.TTF);
+}
+
+h1 {
+  font-family: logoFont;
+  color: #767E8C;
+  font-size: 50px;
+}
+h3 {
+  font-family: logoFont;
+  color: #767E8C;
+  font-size: 35px;
+}
+
+.promotions {
+  background-color:#CCD1D9;
+}
+
+button {
+  background-color: #D9BBB6;
+}
